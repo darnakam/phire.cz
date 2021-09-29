@@ -4,8 +4,9 @@
 }
 
 html {
-    background-color: aliceblue;
+    background-color: black;
     color: var(--font-color);
+    max-height: 100vh;
 }
 
 body {
