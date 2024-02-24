@@ -1,0 +1,3 @@
+[submodule "themes/links"]
+	path = themes/links
+	url = ssh://gitea@git.phire.cz:2402/hericmar/hugo-links.git
