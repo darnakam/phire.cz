@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://phire.cz/"
 languageCode: "en-us"
 
 title: "Martin Herich"
@@ -6,11 +6,12 @@ title: "Martin Herich"
 theme: "links"
 
 params:
+  theme: "solarized"
   subtitle: "Software Engineer"
   links:
-    - type: "github"
+    - type: "GitHub"
       url: "https://github.com/hericmar"
-    - type: "email"
+    - type: "Email"
       url: "mailto:martin.herich@phire.cz"
     - type: "pgp"
       value: "3715 5E55 9CAF 95D1 A680 CA2B 83A3 9511 C627 D7C8"
